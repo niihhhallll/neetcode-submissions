@@ -1,0 +1,3 @@
+/home/gigu/Projects/rust/Problems/data-structure/src/build/CMakeFiles/array.dir
+/home/gigu/Projects/rust/Problems/data-structure/src/build/CMakeFiles/edit_cache.dir
+/home/gigu/Projects/rust/Problems/data-structure/src/build/CMakeFiles/rebuild_cache.dir

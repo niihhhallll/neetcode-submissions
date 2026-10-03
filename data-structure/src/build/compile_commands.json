@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/gigu/Projects/rust/Problems/data-structure/src/build",
+  "command": "/usr/bin/c++   -std=c++20 -Wall -Werror -o CMakeFiles/array.dir/array.cpp.o -c /home/gigu/Projects/rust/Problems/data-structure/src/array.cpp",
+  "file": "/home/gigu/Projects/rust/Problems/data-structure/src/array.cpp",
+  "output": "CMakeFiles/array.dir/array.cpp.o"
+}
+]
